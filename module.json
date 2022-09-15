@@ -1,0 +1,16 @@
+{
+  "id": "solr",
+  "name": "Apache SOLR",
+  "description": "Integration of Apache Solr search platform",
+  "keywords": [
+    "solr",
+    "apache",
+    "search"
+  ],
+  "version": "1.1.1",
+  "humhub": {
+    "minVersion": "1.4"
+  },
+  "homepage": "https://github.com/humhub/humhub-modules-solr",
+  "screenshots": []
+}
